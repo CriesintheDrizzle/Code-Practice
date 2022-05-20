@@ -1,0 +1,7 @@
+﻿  game.c
+D:\图标临时存放\C Program\game1_xzq\game.c(5,21): warning C4028: 形参 1 与声明不同
+D:\图标临时存放\C Program\game1_xzq\game.c(19,24): warning C4028: 形参 1 与声明不同
+D:\图标临时存放\C Program\game1_xzq\game.c(48,22): warning C4028: 形参 1 与声明不同
+D:\图标临时存放\C Program\game1_xzq\game.c(83,24): warning C4028: 形参 1 与声明不同
+D:\图标临时存放\C Program\game1_xzq\game.c(121,17): warning C4028: 形参 1 与声明不同
+  game1_xzq.vcxproj -> D:\图标临时存放\C Program\game1_xzq\Debug\game1_xzq.exe
